@@ -27,9 +27,9 @@
 
 ## About
 
-Hi, I'm **Israel Adetubo** ; a Backend developer who likes building things that move data reliably and fast. Most of my work sits at the intersection of automation, APIs and now AI: from Selenium pipelines that cut hours of manual reporting down to minutes, to **Pitchline**, a real time win probability terminal that turns a live football data stream into a Wall Street styled chart with AI-powered commentary.
+Hi, I'm **Israel Adetubo** ; a Backend developer who likes building things that move data reliably and fast. Most of my work sits at the intersection of automation, APIs and now AI: from Selenium pipelines that cut hours of manual reporting down to minutes, to a real time win probability terminals turning live football data stream into a Wall Street styled chart with AI-powered commentary.
 
-I care about systems holding up under real conditions; sane schema design, resilient error handling and code that still makes sense six months later. I'm currently expanding into JavaScript/Node.js and transitioning toward Machine Learning engineering.
+Systems that hold up under real conditions is all i build and care about; sane schema design, resilient error handling and code that still makes sense six months later. I'm currently expanding into JavaScript/Node.js and transitioning toward Machine Learning engineering (to build my own Jarvis lol).
 
 ---
 
